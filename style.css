@@ -13,7 +13,7 @@ body {
 aside {
   background-color: rgb(182, 114, 186);
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   gap: 10px;
   height: 100vh;
   width: 100px;
